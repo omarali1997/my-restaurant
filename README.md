@@ -1,6 +1,8 @@
 # my-restaurant
 ># Omar's
 
+## **my wireframe image**
+![wireframe image](./dffd.png)
 ## **Menu**
 ### Baked Gnocchi Alfredo.............................*12jd*
  ![Baked Gnocchi Alfredo](./Baked%20Gnocchi%20Alfredo.jpeg)
