@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(245, 199, 169);
+    color:rgb(65, 21, 48);
+    border: 3px solid black;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: gray;
+    
+}
+  
+li {
+    background-color: rgb(245, 199, 169);
+    color:rgb(65, 21, 48);
+    border: 3px solid black;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
